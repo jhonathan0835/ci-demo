@@ -1,3 +1,4 @@
+// quiero ver la integración
 const suma = require('./index');
 
 test('suma 2 + 2 = 4', () => {
