@@ -1,4 +1,4 @@
-function suma(a, b) => {
+const suma = (a, b) => {
  return a + b;
 }
 
